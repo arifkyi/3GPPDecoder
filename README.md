@@ -14,10 +14,18 @@ You can use 3GPPDecoder to decode 3GPP LTE, UMTS and GSM messages for RRC and NA
 Download the 3GPPDecoder executable from: [3GPP Decoder Installer](http://www.3glteinfo.com/3gpp-decoder/)
 ## How to Install and Use
 
-git clone https://github.com/peremen/3GPPDecoder\ncd 3GPPDecoder
+git clone https://github.com/peremen/3GPPDecoder
+
+cd 3GPPDecoder
+
    qmake --version
+   
    /usr/local/opt/qt@5/bin/qmake --version
+   
    /usr/local/opt/qt@5/bin/qmake
+   
    make
+   
    ls -ltr|grep -i 3gpp
+   
    open 3GPPDecoder.app
