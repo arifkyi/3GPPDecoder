@@ -8,6 +8,10 @@ You can use 3GPPDecoder to decode 3GPP NR, LTE, UMTS and GSM messages for RRC an
 
 ## How to build 3GPPDecoder
 
+You Can Follow the Instruction in this Youtube Link:  
+
+
+
 3GPPDecoder is developed using Qt and main programming language is C++.
 Use the `qmake` tool to build the decoder program.
 Currently both Qt5 and Qt6 are supported.
