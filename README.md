@@ -20,6 +20,10 @@ Currently both Qt5 and Qt6 are supported.
 
 I do not provide precompiled binaries for Windows and macOS.
 
+## ☕ Support Me, Support Rifky The Cyber YouTube Channel
+
+If you find this tool helpful and would like to support its development, you can buy me a coffee!
+
 **[☕ Support on Ko-fi](https://ko-fi.com/rifkythecyber)**
 
 Or scan the QR code below:
