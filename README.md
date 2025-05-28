@@ -19,3 +19,9 @@ Use the `qmake` tool to build the decoder program.
 Currently both Qt5 and Qt6 are supported.
 
 I do not provide precompiled binaries for Windows and macOS.
+
+**[☕ Support on Ko-fi](https://ko-fi.com/rifkythecyber)**
+
+Or scan the QR code below:
+
+![Donate](https://github.com/user-attachments/assets/560314d1-58f9-4d0d-a96e-78d28bb7dc44)
